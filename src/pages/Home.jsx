@@ -48,7 +48,7 @@ const Home = () => {
               width: "100%",
               objectFit: "cover",
               objectPosition: "center",
-              marginBottom: 5,
+              marginBottom: 4,
             }}
             alt="BgImage"
             src={BgImage}
